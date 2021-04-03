@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="tea.css" type="text/css"?>
+<recipe>
+<head>
+              <title>TEA</title>
+</head>
+<ingredients>
+<ing>
+     <amt>
+          <qty></qty>
+          <unit></unit>
+     </amt>
+   <item>milk</item>
+</ing>
+<ing>
+     <amt>
+          <qty></qty>
+          <unit></unit>
+     </amt>
+     <item>tea leaves</item>
+</ing>
+<ing>
+     <amt>
+          <qty></qty>
+          <unit></unit>
+     </amt>
+     <item>sugar</item>
+</ing>
+<ing>
+     <amt>
+          <qty></qty>
+          <unit></unit>
+     </amt>
+     <item>water</item>
+</ing>
+</ingredients>
+
+<direction>
+<step>1.put 2 cups of milk in pan.</step>
+<step>2.add some water if u want.</step>
+<step>3.then add 3 spoon of tea leaves.</step>
+<step>4.add 3 spoon of sugar.</step>
+<step>5.wait for 4 or 5 minutes and then enjoy ur tea.</step>
+</direction>
+</recipe>

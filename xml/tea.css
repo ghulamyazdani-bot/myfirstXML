@@ -1,0 +1,13 @@
+title { font-size: large; font-weight:bold; margin-left:30px; color:orange; display:block;}
+
+ingredients{ display:block;margin-top:18px;margin-left:30px; font-family:verdan;}
+
+ing{ display:block; margin-left:40px;}
+
+amt { font-style:italic;}
+ 
+direction { display:block; margin-top: 18px; margin-left: 60px;}
+
+step { display:block; color:blue; font-family:Arial; margin-top:10px;}
+ 
+             

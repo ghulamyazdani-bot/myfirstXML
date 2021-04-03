@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="tea.css" type="text/css"?>
+<recipe>
+<head>
+              <title>maggie</title>
+</head>
+<ingredients>
+<ing>
+     <amt>
+          <qty></qty>
+          <unit></unit>
+     </amt>
+   <item>1 packet maggie</item>
+</ing>
+<ing>
+     <amt>
+          <qty></qty>
+          <unit></unit>
+     </amt>
+     <item>water</item>
+</ing>
+<ing>
+     <amt>
+          <qty></qty>
+          <unit></unit>
+     </amt>
+     <item>magie masala</item>
+</ing>
+
+</ingredients>
+
+<direction>
+<step>1.put 3 cup water in pan.</step>
+<step>2.and then add maggie.</step>
+<step>3.add some maggie masala on it.</step>
+<step>4.u can add more ingredient like onion,chilli etc.</step>
+<step>5.wait for 2 or 3 minutes and then enjoy ur maggie.</step>
+</direction>
+</recipe>
